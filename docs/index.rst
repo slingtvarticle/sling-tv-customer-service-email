@@ -6,11 +6,11 @@ How Do I Contact Sling TV Customer Service Email?
    :caption: Contents:
 Learn how to reach Sling TV customer service email for help with your account, billing, and streaming issues, plus FAQs to guide you.
  
-.. image:: https://expressvpn-help.readthedocs.io/en/latest/_images/service.jpg
+.. image:: service.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://getchatsupport.live/
+   :target: https://slingcustomer.support/support.html
 
 Sling TV has become a popular choice for streaming live television and on-demand content without the constraints of traditional cable. However, like any service, sometimes users need assistance with account access, billing questions, or technical difficulties. If you’re wondering how to get in touch with Sling TV customer service email, this guide will walk you through the process and provide answers to common questions.
 
